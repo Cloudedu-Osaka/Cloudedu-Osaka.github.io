@@ -43,7 +43,7 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 3. アンケートに回答後、同意を撤回する場合は、次の「同意撤回書」に記載の上、xxx@ime.cmc.osaka-u.ac.jpまでご送付ください。
 
 ## 関連文書 (例示のため掲載しますが、回答はすべてフォームにてお願いします)
-* 同意書・説明文書・同意撤回書
+* [同意書・説明文書・同意撤回書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E5%90%8C%E6%84%8F%E6%9B%B8%E3%83%BB%E8%AA%AC%E6%98%8E%E6%96%87%E6%9B%B8%E3%83%BB%E5%90%8C%E6%84%8F%E6%92%A4%E5%9B%9E%E6%9B%B820210114_David.pdf)
 * アンケート
 
 ## 研究実施にあたっての倫理上の問題点 
