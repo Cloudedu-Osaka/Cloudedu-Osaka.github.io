@@ -1,9 +1,11 @@
-# Survey of the spread of cloud computing technology for education in higher education institutions by country 
+## Survey of the spread of cloud computing technology for education in higher education institutions by country 
 
-## Affiliation, job title, and name of the person in charge of supervising  
+---
+
+### Affiliation, job title, and name of the person in charge of supervising  
 * Haruo Takemura, Professor, Cybermedia Center. Osaka University. 
 
-## Affiliation, job title (grade), and name of the person in charge of implementation 
+### Affiliation, job title (grade), and name of the person in charge of implementation 
 * Mayumi Ueda, Specially Appointed Professor, Cybermedia Center, Osaka University. 
 * Manabu Higashida, Associate Professor, Cybermedia Center, Osaka University. 
 * Shizuka Shirai, Associate Professor, Cybermedia Center, Osaka University. 
@@ -56,4 +58,4 @@ There will be no direct contact with the respondents as the survey will be reque
 * Organizations that participate in the Council of National University Corporation Information System Centers (NIPC).  
 
 ## Planned research period 
-# February 1, 2022 - August 31, 2024 
+* February 1, 2022 - August 31, 2024 
