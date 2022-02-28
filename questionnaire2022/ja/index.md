@@ -1,4 +1,4 @@
-## 高等教育機関における教育へのクラウドコンピューティング技術の国別普及状況の調査
+## 「高等教育機関における教育へのクラウドコンピューティング技術の国別普及状況の調査」の説明文書
 
 ### 実施責任者の所属・職名・氏名
 * 大阪大学 サーバメディアセンター・教授・竹村 治雄
@@ -38,12 +38,13 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 ---
 
 ### 回答手順
-1. 「[説明文書]()」を読む
-2. 「[同意書]()」に署名し、「[アンケート]()」に回答する (この[リンク]()から進んでください)
+1. 「説明文書」(このWebページ) を読む
+2. 「同意書」に署名し、「アンケート」に回答する
+   * この[リンク](https://forms.office.com/r/XcWEzgZXWq)から回答書式に進んでください
    * 日本語以外の言語での回答を希望する場合は、右上のメニューから言語を選んでください (English/Spanish)
-   * 「同意書」に書名する (必要事項を記入の上、末尾の「次に」をクリックすると「アンケート」に進みます)
+   * 「同意書」に書名する (必要事項を記入の上、末尾の「次に」をクリックすると、次の「アンケート」に進みます)
    * 「アンケート」に回答する (所要時間: 10分から15分を予定しています)
-3. アンケートに回答後、同意を撤回する場合は、「[同意撤回書]()」に書名の上、送信してください。
+3. アンケートに回答後、同意を撤回する場合は、「[同意撤回書](https://forms.office.com/r/Sx0yZH0s32)」に書名の上、送信してください。
 
 ### 回答期限
 * **2022年3月31日水曜日**
@@ -51,10 +52,11 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 ### 関連文書 (例示のため掲載しますが、回答はすべて上記記載のリンク先フォームにてお願いします)
 * [同意書・説明文書・同意撤回書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E5%90%8C%E6%84%8F%E6%9B%B8%E3%83%BB%E8%AA%AC%E6%98%8E%E6%96%87%E6%9B%B8%E3%83%BB%E5%90%8C%E6%84%8F%E6%92%A4%E5%9B%9E%E6%9B%B820210114_David.pdf)
 * 同意書およびアンケートの入力フォーム
-  * [1 of 4: 同意書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%201of4.pdf)
-  * [2 of 4: 回答者のプロフィール](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%202of4.pdf)
-  * [3 of 4: 所属組織](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%203of4.pdf)
-  * [4 of 4: アンケート](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%204of4.pdf)
+  * [1 of 5: 同意書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%201of4.pdf)
+  * [2 of 5: 回答者のプロフィール](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%202of4.pdf)
+  * [3 of 5: 所属組織](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%203of4.pdf)
+  * [4 of 5: アンケート](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%204of4.pdf)
+  * [5 of 5: 同意撤回書]()
  
 ### 研究実施にあたっての倫理上の問題点 
 
