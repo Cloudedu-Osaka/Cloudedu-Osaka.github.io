@@ -39,13 +39,15 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 
 ### 回答手順
 1. 「説明文書」(このWebページ) を読む
-2. この[リンク](https://forms.office.com/r/XcWEzgZXWq) [https://forms.office.com/r/XcWEzgZXWq](https://forms.office.com/r/XcWEzgZXWq) から回答書式 (「同意書」および「アンケート」) に進んでください
-   * 日本語以外の言語での回答を希望する場合は、リンク先の右上のメニューから言語を選んでください (English/Spanish)
+2. 次のURLから回答書式 (「同意書」および「アンケート」) に進んでください
+   * [https://forms.office.com/r/XcWEzgZXWq](https://forms.office.com/r/XcWEzgZXWq)
 3. 「同意書」に書名する
+   * 日本語以外の言語での回答を希望する場合は、リンク先の右上のメニューから言語を選んでください (English/Spanish)
    * 必要事項を記入の上、末尾の「次に」をクリックすると、次の「アンケート」に進みます
 4. 「アンケート」に回答する
    * 所要時間: 10分から15分を予定しています
-5. アンケートに回答後、同意を撤回する場合は、この[リンク](https://forms.office.com/r/Sx0yZH0s32) [https://forms.office.com/r/Sx0yZH0s32](https://forms.office.com/r/Sx0yZH0s32) から「同意撤回書」に書名の上、送信してください。
+5. アンケートに回答後、同意を撤回する場合は、次のURLから「同意撤回書」に書名の上、送信してください
+   * [https://forms.office.com/r/Sx0yZH0s32](https://forms.office.com/r/Sx0yZH0s32)
 
 ### 回答期限
 * **2022年3月31日水曜日**
