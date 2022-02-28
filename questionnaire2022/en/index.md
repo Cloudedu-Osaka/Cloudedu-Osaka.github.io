@@ -13,8 +13,10 @@
 ### Research purpose and implementation plan 
 
 With the spread of smart devices and cloud computing technology, it has become possible to receive information services regardless of location. However, because of COVID-19, now it is required to provide information services equivalent to face-to-face solutions. 
+
 This study investigates the diffusion of cloud computing technologies in the education of higher education institutions in Japan and the Dominican Republic (the origin country of the student who is the experimenter) in the form of a questionnaire. Based on the [TAM (Technology Acceptance Model)](https://en.wikipedia.org/wiki/Technology_acceptance_model) and [DOI (Diffusion of Innovation)](https://en.wikipedia.org/wiki/Diffusion_of_innovations) theories, 75 questions will be answered in stages, and the diffusion of cloud computing technologies in education in both countries will be contrasted and analyzed. In addition, this study will be used to examine the technological requirements necessary to realize homogeneous and face-to-face education in higher education institutions regardless of location. 
-References 
+
+### References 
 
 * YOUSEF A. M. QASEM , RUSLI ABDULLAH, YUSMADI YAH JUSOH, RODZIAH ATAN, AND SHAHLA ASADI. [“Cloud Computing Adoption in Higher Education Institutions: A Systematic Review”](https://link.springer.com/content/pdf/10.1007/s10586-015-0490-4.pdf), Digital Object Identifier 10.1109/ACCESS.2019.2916234. 
 * Humphrey M. Sabi, Faith-Michael E. Uzoka, Kehbuma Langmia, Felix N. Njeh, Clive K. Tsuma. [“A cross-country model of contextual factors impacting cloud computing adoption at universities in sub-Saharan Africa”](https://link.springer.com/content/pdf/10.1007/s10796-017-9739-1.pdf). Inf Syst Front (2018).
