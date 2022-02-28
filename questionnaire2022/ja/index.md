@@ -1,4 +1,4 @@
-<div style="text-align: right;">説明文書</div>
+<div align="right">(説明文書)</div>
 
 ## 高等教育機関における教育へのクラウドコンピューティング技術の国別普及状況の調査
 
