@@ -50,13 +50,13 @@ This study investigates the diffusion of cloud computing technologies in the edu
 
 ### Ethical issues in conducting research 
 #### Ensuring the privacy of investigators and subjects 
-Attributes and personal information such as names and affiliations of participants will be destroyed after the completion of administrative procedures and will not be published in papers. In addition, when publishing the data in a paper, we will obtain the consent of the collaborators in the experiment to use the anonymized data after statistical processing thus individuals cannot be identified. 
+* Attributes and personal information such as names and affiliations of participants will be destroyed after the completion of administrative procedures and will not be published in papers. In addition, when publishing the data in a paper, we will obtain the consent of the collaborators in the experiment to use the anonymized data after statistical processing thus individuals cannot be identified. 
 #### Measures to be taken in the event of drawbacks to the investigator or subject 
-If there is a complaint by the surveyed person, the responses will be excluded from the total results. 
+* If there is a complaint by the surveyed person, the responses will be excluded from the total results. 
 #### Whether or not to make public announcements, and the ethical issues that may arise and how to deal with them 
-The results of the survey will be made public, but the names of the participants and any other information that could identify them will not be shown. 
-#### Countermeasures to prevent infection by the new coronavirus 
-There will be no direct contact with the respondents as the survey will be requested by e-mail and responses will be made online. 
+* The results of the survey will be made public, but the names of the participants and any other information that could identify them will not be shown. 
+#### Countermeasures to prevent infection by the new coronavirus
+* There will be no direct contact with the respondents as the survey will be requested by e-mail and responses will be made online. 
 ---
 
 ### Organizations to be surveyed (Japan)
