@@ -18,8 +18,11 @@ This study investigates the diffusion of cloud computing technologies in the edu
 
 ### References 
 
-* YOUSEF A. M. QASEM , RUSLI ABDULLAH, YUSMADI YAH JUSOH, RODZIAH ATAN, AND SHAHLA ASADI. [“Cloud Computing Adoption in Higher Education Institutions: A Systematic Review”](https://link.springer.com/content/pdf/10.1007/s10586-015-0490-4.pdf), Digital Object Identifier 10.1109/ACCESS.2019.2916234. 
+* YOUSEF A. M. QASEM , RUSLI ABDULLAH, YUSMADI YAH JUSOH, RODZIAH ATAN, AND SHAHLA ASADI. [“Cloud Computing Adoption in Higher Education Institutions: A Systematic Review”](https://ieeexplore.ieee.org/abstract/document/8712496), Digital Object Identifier 10.1109/ACCESS.2019.2916234. 
 * Humphrey M. Sabi, Faith-Michael E. Uzoka, Kehbuma Langmia, Felix N. Njeh, Clive K. Tsuma. [“A cross-country model of contextual factors impacting cloud computing adoption at universities in sub-Saharan Africa”](https://link.springer.com/content/pdf/10.1007/s10796-017-9739-1.pdf). Inf Syst Front (2018).
+* AlAlaa N. Tashkandi, Ibrahim M. Al-Jabri. ["Cloud computing adoption by higher education institutions
+in Saudi Arabia: an exploratory study"](https://link.springer.com/content/pdf/10.1007/s10586-015-0490-4.pdf). Cluster Comput (2015). 
+* Amit Kumar Bhardwaj, Lalit Garg, Arunesh Garg and Yuvraj Gajpal. ["E-Learning during COVID-19 Outbreak: Cloud Computing Adoption in Indian Public Universities"](https://www.researchgate.net/publication/347952493_E-Learning_during_COVID-19_Outbreak_Cloud_Computing_Adoption_in_Indian_Public_Universities). Tech Science Press: Article in Computers, Materials and Continua · December 2020. 
  
 ### Expected results 
 
@@ -29,22 +32,21 @@ This study investigates the diffusion of cloud computing technologies in the edu
 ---
 
 ### Answering procedure 
-1. Read the "Explanatory Procedures". 
-2. Sign the "Agreement" and complete the "Questionnaire" (please use this link). 
-3. If you would like to answer the questionnaire in a language other than Japanese, please select a language from the menu on the upper right (English/Spanish). 
-4. Fill in the "Agreement" form. After filling in the required information, click "Next" at the end of the form to proceed to the "Questionnaire".  
-5. Complete the "Questionnaire" (expected time: 10 to 15 minutes). 
-6. If you wish to withdraw your consent after completing the questionnaire, please write your name on the "Withdrawal of Consent Form" and send it to us. 
+1. Read the ["Explanatory Procedures"](https://cloudedu-osaka.github.io/questionnaire2022/en/). 
+2. Sign the "Agreement" and complete the "Questionnaire" - [please use this link](https://forms.office.com/r/XcWEzgZXWq). 
+3. If you would like to answer the questionnaire in a language other than English, please select a language from the menu on the upper right (English/Spanish/Japanese). 
+4. Complete the "Questionnaire" (expected time: 10 to 15 minutes). .  
+5. If you wish to withdraw your consent after completing the questionnaire, please fill your information on the ["Withdrawal of Consent Form"](https://forms.office.com/r/Sx0yZH0s32) and send it to us. 
 
 ### Deadline for responding to this survey
-* ***Wednesday, March 31, 2022***
+* ***Thursday, March 31, 2022***
 
 ### Related Documents (For illustrative purposes only, please use the linked form above for all responses.) 
 * Consent Form, Explanation Document, and Consent Withdrawal Form. 
 * Consent Form and Questionnaire Entry Form 
   * 1 of 4: Consent Form 
-  * 2 of 4: Respondent's Profile 
-  * 3 of 4: Affiliation 
+  * 2 of 4: Affiliation 
+  * 3 of 4: Respondent's Profile 
   * 4 of 4: Questionnaire 
 ---
 
@@ -61,9 +63,13 @@ This study investigates the diffusion of cloud computing technologies in the edu
 
 ### Organizations to be surveyed (Japan)
 
-* Organizations that participate in the Council of National University Corporation Information System Centers (NIPC).  
+* Organizations that participate in the Council of National University Corporation Information System Centers [(NIPC)](https://www.nipc.gr.jp/home/univlist).   
+* Organizations that participate in the Japan Universities Association for Computer Education [(JUCE)](https://www.juce.jp/LINK/kaiin/univ2.htm).
+
+### Organizations to be surveyed (Dominican Republic)
+* Organizations that are endorsed by the Ministry of Higher Education, Science and Technology [(MESCYT)](https://mescyt.gob.do/). 
 
 ### Planned research period 
 * February 1, 2022 - August 31, 2024
 ### Deadline for responding to this survey
-* ***Wednesday, March 31, 2022***
+* ***Thursday, March 31, 2022***
