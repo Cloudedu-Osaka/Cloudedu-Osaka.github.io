@@ -31,7 +31,7 @@ in Saudi Arabia: an exploratory study"](https://link.springer.com/content/pdf/10
 ### Procedimiento para responder la encuesta  
 1. Leer el documento ["Procedimientos de la Encuesta"](https://cloudedu-osaka.github.io/questionnaire2022/es/). 
 2. Firmar el "Formulario de Consentimiento" y completar el "Cuestionario" - [por favor utilizar este enlace.](https://forms.office.com/r/XcWEzgZXWq) 
-3. Si desea responder al cuestionario en un idioma distinto del inglés, seleccione un idioma en el menú de la parte superior derecha (inglés/español/japonés). 
+3. Si desea responder al cuestionario en un idioma distinto del Inglés, seleccione un idioma en el menú de la parte superior derecha (Inglés/Español/Japonés). 
 4. El tiempo previsto para completar el cuestionario es de 10 a 15 minutos.  
 5. Si desea retirar su consentimiento después de haber completado el cuestionario, llene sus datos en el ["Formulario de Retiro de Consentimiento"](https://forms.office.com/r/Sx0yZH0s32) y envíenoslo. 
 
