@@ -86,8 +86,10 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 
 ### 調査対象予定組織 (日本)
 
-* 国立大学法人情報系センター協議会に参加している組織
+* [国立大学法人情報系センター協議会](https://www.nipc.gr.jp/)に参加している組織
   * [NIPC - 大学・センター](https://www.nipc.gr.jp/home/univlist)
+* [私立大学等情報処理教育連絡協議会](https://www.juce.jp/)に参加している組織 (短期大学を除く)
+  * [公益社団法人 私立大学情報教育協会 － JUCE](https://www.juce.jp/LINK/kaiin/univ2.htm)
 <p></p>
 
 ## 研究予定
