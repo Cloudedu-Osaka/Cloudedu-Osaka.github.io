@@ -4,13 +4,13 @@
 
 ### 実施責任者の所属・職名・氏名
 * 大阪大学 サーバメディアセンター・教授・竹村 治雄
+<p></p>
 
 ### 実施分担者の所属・職名（学年）・氏名
 * 大阪大学 サイバーメディアセンター・特任教授・上田 真由美 
 * 大阪大学 サイバーメディアセンター・講師・東田 学 
 * 大阪大学 サイバーメディアセンター・講師・白井 詩沙香 
 * 大阪大学 情報科学研究科・D1・David Enmanuel Soto Campusano
-
 <p></p>
 
 ### 研究の目的及び実施計画
@@ -27,18 +27,20 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 両国の教育におけるクラウドコンピューティング技術の普及状況を対比的に分析する。
 さらに、高等教育機関での教育において
 場所に左右されず均質かつ対面と同等な教育を実現するために必要となる技術要件の検討に活用する。
+<p></p>
 
 ### 参考文献
 
 * YOUSEF A. M. QASEM , RUSLI ABDULLAH, YUSMADI YAH JUSOH, RODZIAH ATAN, AND SHAHLA ASADI. [“Cloud Computing Adoption in Higher Education Institutions: A Systematic Review”](https://link.springer.com/content/pdf/10.1007/s10586-015-0490-4.pdf), Digital Object Identifier 10.1109/ACCESS.2019.2916234. 
 * Humphrey M. Sabi, Faith-Michael E. Uzoka, Kehbuma Langmia, Felix N. Njeh, Clive K. Tsuma. [“A cross-country model of contextual factors impacting cloud computing adoption at universities in sub-Saharan Africa”](https://link.springer.com/content/pdf/10.1007/s10796-017-9739-1.pdf). Inf Syst Front (2018).
- 
+<p></p>
+
 ### 期待される成果
 
 1. 先行して行われているサハラ以南のアフリカにおける集計結果とも比較しながら、高等教育機関における国別のクラウドコンピューティング技術の普及状況を把握し、普及を推進するために必要な意向や意思決定の傾向を把握する。
 2. 並行して開発しているプログラミングや情報通信技術習得を支援する対話型教育システムの模擬授業を通じて得られる知見 (教育データ解析とアンケート結果の分析など) と組み合わせることで、高等教育機関におけるより具体的なクラウドコンピューティング技術の利活用のための要求要件を見極めていく。
    * [開発中の対話型教育システムの例](http://ou-nre-test-lx.japaneast.cloudapp.azure.com:30001/catalog/)
----
+<p></p>
 
 ### 回答手順
 1. 「説明文書」(このWebページ) を読む
@@ -51,9 +53,11 @@ COVID-19において、対面と同等の情報サービス提供が求められ
    * 所要時間: 10分から15分を予定しています
 5. アンケートに回答後、同意を撤回する場合は、次のURLから「同意撤回書」に書名の上、送信してください
    * [https://forms.office.com/r/Sx0yZH0s32](https://forms.office.com/r/Sx0yZH0s32)
+<p></p>
 
 ### 回答期限
 * **2022年3月31日水曜日**
+<p></p>
 
 ### 関連文書 (例示のため掲載しますが、回答はすべて上記記載のリンク先フォームにてお願いします)
 * [同意書・説明文書・同意撤回書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E5%90%8C%E6%84%8F%E6%9B%B8%E3%83%BB%E8%AA%AC%E6%98%8E%E6%96%87%E6%9B%B8%E3%83%BB%E5%90%8C%E6%84%8F%E6%92%A4%E5%9B%9E%E6%9B%B820210114_David.pdf)
@@ -63,6 +67,7 @@ COVID-19において、対面と同等の情報サービス提供が求められ
   * [3 of 5: 所属組織](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%203of4.pdf)
   * [4 of 5: アンケート](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%204of4.pdf)
   * [5 of 5: 同意撤回書]()
+<p></p>
  
 ### 研究実施にあたっての倫理上の問題点 
 
@@ -77,15 +82,19 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 
 #### 新型コロナウイルス等の感染予防対策
 * 電子メールによる調査依頼、オンラインでの回答を予定しており被調査者との直接接触はない。
----
+<p></p>
 
 ### 調査対象予定組織 (日本)
 
 * 国立大学法人情報系センター協議会に参加している組織
   * [NIPC - 大学・センター](https://www.nipc.gr.jp/home/univlist)
+<p></p>
 
+## 研究予定
 ### 研究実施予定期間 
 * 令和 3 年 2 月 1 日　～　令和 5 年 8 月 31 日 
+<p></p>
 
-### 回答期限
+### 本アンケート回答期限
 * **2022年3月31日水曜日**
+<p></p>
