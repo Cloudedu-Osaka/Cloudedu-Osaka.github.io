@@ -43,30 +43,33 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 <p></p>
 
 ### 回答手順
-1. 「説明文書」(このWebページ) を読む
-2. 次のURLから回答書式 (「同意書」および「アンケート」) に進んでください
-   * [https://forms.office.com/r/XcWEzgZXWq](https://forms.office.com/r/XcWEzgZXWq)
-3. 「同意書」に書名する
-   * 日本語以外の言語での回答を希望する場合は、リンク先の右上のメニューから言語を選んでください (English/Spanish)
-   * 必要事項を記入の上、末尾の「次に」をクリックすると、次の「アンケート」に進みます
-4. 「アンケート」に回答する
-   * 所要時間: 10分から15分を予定しています
-5. アンケートに回答後、同意を撤回する場合は、次のURLから「同意撤回書」に書名の上、送信してください
-   * [https://forms.office.com/r/Sx0yZH0s32](https://forms.office.com/r/Sx0yZH0s32)
+#### 組織を対象とした調査アンケート 
+* 概要 
+  * 本アンケートは組織を対象としており、貴学のクラウドコンピューティングの導入状況をお尋ねするものです。 
+  * 所要時間: 10分から15分を予定しています。
+* アンケート対象者（1名）： 
+  * IT部門の責任者またはその代理人（クラウドコンピューティングの導入・不採用を決定できる方）。 
+* アンケートへのリンク： 
+  * 下記URLにアクセスし、画面に従ってご回答ください。 
+  * [https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUQUZVN0VQVzJLNVBIRktBR0NPNDE4MElJNC4u&lang=ja](https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUQUZVN0VQVzJLNVBIRktBR0NPNDE4MElJNC4u&lang=ja)  
+
+#### 個人を対象とした調査アンケート 
+* 概要 
+  * 本アンケートはICTに関わる業務や意思決定に関わる個人を対象としたクラウドコンピューティングに関する意識調査です。 
+  * 所要時間: 10分から15分を予定しています。
+* アンケート対象者（該当者）： 
+  * ICTサポートスタッフ、コンピュータや情報システムに関する講師、上級アドミニストレータ、主要な意思決定者。 
+* アンケートへのリンク： 
+  * 下記URLにアクセスし、画面に従ってご回答ください。 
+  * [https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUMDZONjg5OEVMOUg1VUxCWUdPMkoyS0JYSS4u&lang=ja](https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUMDZONjg5OEVMOUg1VUxCWUdPMkoyS0JYSS4u&lang=ja)
+
+#### 同意の撤回
+* アンケートに回答後、同意を撤回する場合は、次のURLから「同意撤回書」に書名の上、送信してください。
+  * [https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUN0VWWjg0VlVESlUyTDZCMUFNQjRDWElEWS4u&lang=ja](https://forms.office.com/Pages/ResponsePage.aspx?id=THO8AEYQ_0S7mfSwGAbQYvloTd4GX6pGpbc7bCrbp1pUN0VWWjg0VlVESlUyTDZCMUFNQjRDWElEWS4u&lang=ja)
 <p></p>
 
 ### 回答期限
-* **2022年3月31日水曜日**
-<p></p>
-
-### 関連文書 (例示のため掲載しますが、回答はすべて上記記載のリンク先フォームにてお願いします)
-* [同意書・説明文書・同意撤回書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E5%90%8C%E6%84%8F%E6%9B%B8%E3%83%BB%E8%AA%AC%E6%98%8E%E6%96%87%E6%9B%B8%E3%83%BB%E5%90%8C%E6%84%8F%E6%92%A4%E5%9B%9E%E6%9B%B820210114_David.pdf)
-* 同意書およびアンケートの入力フォーム
-  * [1 of 5: 同意書](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%201of4.pdf)
-  * [2 of 5: 回答者のプロフィール](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%202of4.pdf)
-  * [3 of 5: 所属組織](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%203of4.pdf)
-  * [4 of 5: アンケート](https://github.com/Cloudedu-Osaka/cloudedu-osaka.github.io/blob/main/questionnaire2022/ja/%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%82%B3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E8%AA%BF%E6%9F%BBV2.0%2C%204of4.pdf)
-  * [5 of 5: 同意撤回書]()
+* **2022年5月13日金曜日17:00**
 <p></p>
  
 ### 研究実施にあたっての倫理上の問題点 
@@ -98,5 +101,5 @@ COVID-19において、対面と同等の情報サービス提供が求められ
 <p></p>
 
 ### 本アンケート回答期限
-* **2022年3月31日水曜日**
+* **2022年5月13日金曜日17:00**
 <p></p>
